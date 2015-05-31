@@ -1,0 +1,33 @@
+
+body {
+    
+    padding: 20;
+    
+    border-style: ridge;
+    border: 10;
+    border-color: red;
+    
+}
+
+
+div.navBar {
+    
+    box-shadow: 10 10 4 grey;
+    
+}
+
+div.pageLink {
+    
+    float: left;
+    
+    border-style: dotted;
+    border: 10;
+    
+}
+
+a.pageLink {
+    
+    text-align: center;
+    color: #008AE6;
+    
+}
